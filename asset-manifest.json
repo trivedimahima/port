@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trivedimahima/sec-port/static/css/main.7e448474.css",
+    "main.js": "/trivedimahima/sec-port/static/js/main.c72c9b59.js",
+    "static/js/453.b12a1191.chunk.js": "/trivedimahima/sec-port/static/js/453.b12a1191.chunk.js",
+    "static/media/1.jpg": "/trivedimahima/sec-port/static/media/1.fa5e07c89c58468d98af.jpg",
+    "static/media/img3.jpg": "/trivedimahima/sec-port/static/media/img3.1ce10be7e949863f6ebf.jpg",
+    "static/media/img2.jpg": "/trivedimahima/sec-port/static/media/img2.a451e69678732ce0793e.jpg",
+    "static/media/img.jpg": "/trivedimahima/sec-port/static/media/img.537f1ab3cde13909911e.jpg",
+    "static/media/img1.jpg": "/trivedimahima/sec-port/static/media/img1.ca55a691bb9f2b540508.jpg",
+    "index.html": "/trivedimahima/sec-port/index.html",
+    "main.7e448474.css.map": "/trivedimahima/sec-port/static/css/main.7e448474.css.map",
+    "main.c72c9b59.js.map": "/trivedimahima/sec-port/static/js/main.c72c9b59.js.map",
+    "453.b12a1191.chunk.js.map": "/trivedimahima/sec-port/static/js/453.b12a1191.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e448474.css",
+    "static/js/main.c72c9b59.js"
+  ]
+}
